@@ -1,4 +1,5 @@
-heroku-node
-===========
+# Application NodeJS
 
-Code for the tutorial by @sevilayha: Deploying Node Apps to Heroku
+C'est l'Application simple pour heroku
+
+Merci à sevilayha.
